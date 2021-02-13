@@ -1,0 +1,14 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "workbench.colorTheme": "Atomize",
+    "workbench.preferredDarkColorTheme": "Sublime Monokai",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia Code PL', Consolas, 'Courier New', monospace",
+    "editor.fontWeight": 1,
+    "editor.fontSize": 14,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+}
