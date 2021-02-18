@@ -2,7 +2,7 @@
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "workbench.colorTheme": "Atomize",
+    "workbench.colorTheme": "Bluloco Dark",
     "workbench.preferredDarkColorTheme": "Sublime Monokai",
     "workbench.editor.enablePreviewFromCodeNavigation": true,
     "editor.fontLigatures": true,
